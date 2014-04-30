@@ -1,0 +1,8 @@
+development:
+  developer_key: "AIzaSyBxZnX98cx7SMD8qqkD3IVtgm9Ipu-dP64"
+
+test:
+  developer_key: "AIzaSyBxZnX98cx7SMD8qqkD3IVtgm9Ipu-dP64"
+
+production:
+  developer_key: "AIzaSyBxZnX98cx7SMD8qqkD3IVtgm9Ipu-dP64"
